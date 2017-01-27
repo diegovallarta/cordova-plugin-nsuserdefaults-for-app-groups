@@ -7,7 +7,7 @@ Authors: Joschka Schulz
 
 Use the Cordova CLI and type in the following command:
 
-`cordova plugin add https://github.com/protonet/cordova-plugin-nsuserdefaults-for-app-groups.git`
+`cordova plugin add https://github.com/diegovallarta/cordova-plugin-nsuserdefaults-for-app-groups.git`
 
 ## Description
 
